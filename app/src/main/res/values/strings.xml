@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Res</string>
+    <string name="refresh">Refresh</string>
+    <string name="name">Name</string>
+    <string name="volume">Volume</string>
+    <string name="amount">Amount</string>
+</resources>
